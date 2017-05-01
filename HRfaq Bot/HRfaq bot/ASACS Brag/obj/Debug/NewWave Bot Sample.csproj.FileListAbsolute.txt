@@ -1,0 +1,47 @@
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Bot Application.dll.config
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Bot Application.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Bot Application.pdb
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Autofac.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Chronic.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Google.Protobuf.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Bot.Builder.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Bot.Connector.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\MySql.Data.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Newtonsoft.Json.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Net.Http.Formatting.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Web.Http.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Web.Http.WebHost.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Autofac.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Google.Protobuf.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Bot.Builder.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Bot.Connector.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\MySql.Data.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Newtonsoft.Json.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Net.Http.Formatting.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Web.Http.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Web.Http.WebHost.xml
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\obj\Debug\Bot Application.dll
+C:\Users\aahlad.karumuru\documents\visual studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\obj\Debug\Bot Application.pdb
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\obj\Debug\NewWave Bot Sample.csprojResolveAssemblyReference.cache

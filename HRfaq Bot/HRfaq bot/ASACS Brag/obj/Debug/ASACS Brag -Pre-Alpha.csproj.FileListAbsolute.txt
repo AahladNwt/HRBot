@@ -1,0 +1,172 @@
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Bot Application.dll.config
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Bot Application.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Bot Application.pdb
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Autofac.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Chronic.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Google.Protobuf.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Bot.Builder.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Bot.Connector.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\MySql.Data.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Newtonsoft.Json.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Net.Http.Formatting.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Web.Http.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Web.Http.WebHost.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Autofac.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Google.Protobuf.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Bot.Builder.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.Bot.Connector.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\MySql.Data.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\Newtonsoft.Json.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Net.Http.Formatting.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Web.Http.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\System.Web.Http.WebHost.xml
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\obj\Debug\Bot Application.dll
+C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\NewWave Bot Sample\NewWave Bot Sample\obj\Debug\Bot Application.pdb
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Bot Application.dll.config
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Bot Application.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Bot Application.pdb
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Autofac.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Chronic.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Google.Protobuf.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Bot.Builder.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Bot.Connector.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\MySql.Data.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Newtonsoft.Json.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Net.Http.Formatting.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Web.Http.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Web.Http.WebHost.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Autofac.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Google.Protobuf.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Bot.Builder.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Bot.Connector.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\MySql.Data.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Newtonsoft.Json.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Net.Http.Formatting.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Web.Http.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Web.Http.WebHost.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\obj\Debug\Bot Application.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\obj\Debug\Bot Application.pdb
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.Localization.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.Options.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Swashbuckle.Swagger.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Swashbuckle.SwaggerGen.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Swashbuckle.SwaggerUi.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Buffers.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Collections.NonGeneric.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.ComponentModel.Primitives.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.IO.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Reflection.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Runtime.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Runtime.Extensions.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Runtime.InteropServices.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Text.Encodings.Web.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.Localization.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.Options.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\bin\System.Text.Encodings.Web.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\6400Spring17Team013\Brag-Tenative (Ignore)\ASACS Brag\ASACS Brag\obj\Debug\ASACS Brag -Pre-Alpha.csprojResolveAssemblyReference.cache
