@@ -9,10 +9,6 @@ using Newtonsoft.Json;
 
 //Azure SQL Pass: newwaveHRbot*
 
-/*<add key="BotId" value="nwthrbot" />
-    <add key="MicrosoftAppId" value="9c552451-7a5a-47fc-9699-0b06848a7898" />
-    <add key="MicrosoftAppPassword" value="xnNvGkddteAkdn44KQqdSjT" /> */
-
 namespace NewWave_Bot_Sample.Dialogs
 {
     [Serializable]
@@ -33,25 +29,8 @@ namespace NewWave_Bot_Sample.Dialogs
 
            
             System.Threading.Thread.Sleep(3000);
-            await context.PostAsync($"HR Bot is currently under development by **Innov-Lab**");
+            await context.PostAsync($"HR Bot is currently under development by Innov-Lab");
             System.Threading.Thread.Sleep(2000);
-
-            /*if(activity != null && activity.Text != null)
-            {
-                var replyMessage = context.MakeMessage();
-                replyMessage.Attachments = new List<Attachment>();
-
-                switch (activity.Text.ToLower())
-                {
-                    case "hero-card":
-                        {
-                            ShowHeroCard(replyMessage);
-                            break;
-                        }
-                    default: { break; }
-                }
-                await context.PostAsync(replyMessage);
-            }*/
             /*
             if (sLuis.intents[0].intent == "meals remain")
             {
@@ -170,30 +149,18 @@ namespace NewWave_Bot_Sample.Dialogs
                     break;
                 case "CoreValues":
                     await context.PostAsync($"You are asking information about core values of the Company");
-                    await context.PostAsync($"There are the core values of out company:" +
+                    await context.PostAsync($"Our Company is currently working with CMS on these contracts:" +
                         "\n\n" +
-                        $"1: **People First:** Our professionals are the backbone of our success; without them we cannot accomplish our mission. We value our employees’ individual strengths, and their entrepreneurial and charitable spirit." +
+                        $"1: People First: Our professionals are the backbone of our success; without them we cannot accomplish our mission. We value our employees’ individual strengths, and their entrepreneurial and charitable spirit." +
                         "\n\n" +
-                        $"2: **Customer Always:** Our customers share our vision of providing quality healthcare services nationwide. We partner with our customers to help them achieve our shared ideals." +
+                        $"2: Customer Always: Our customers share our vision of providing quality healthcare services nationwide. We partner with our customers to help them achieve our shared ideals." +
                         "\n\n" +
-                        $"3: **Integrity:** Our team values honesty, respect, and teamwork. We believe integrity is doing the right thing; even when no one is looking." +
+                        $"3: Integrity: Our team values honesty, respect, and teamwork. We believe integrity is doing the right thing; even when no one is looking." +
                         "\n\n" +
-                        $"4: **Quality:** Our partners rely on quality products and solutions for mission success. We provide efficient, measurable, and cost-effective results that exceed customer expectations." +
+                        $"4: Quality: Our partners rely on quality products and solutions for mission success. We provide efficient, measurable, and cost-effective results that exceed customer expectations." +
                         "\n\n" +
-                        $"5: **Social Responsibilty:** Our personnel support and provide local community outreach. We embrace the charitable donation of our time, talent, and treasure as the bedrock principle upon which this company was founded."
+                        $"5: Social Responsibilty: Our personnel support and provide local community outreach. We embrace the charitable donation of our time, talent, and treasure as the bedrock principle upon which this company was founded."
                         );
-                    break;
-                case "Payroll_Ques":
-                    await context.PostAsync($"All your concerns can be addressed by sending an email to *payroll@newwave.io*");
-                    break;
-                case "payday":
-                    await context.PostAsync($"Our paydays fall on the **7th** and **22nd** of each month. However, if the 7th or 22nd falls on a holiday/eekend we get paid the business day before");
-                    break;
-                case "pto_incurmonth":
-                    await context.PostAsync($"Eligible employees will incur a total of *10 hours* of PTO monthly. You will recieve *5 hours on the 7th* and *5 hours on the 22nd* payroll cycle which equates to *10 hours total* for the month");
-                    break;
-                case "holidaysch":
-                    await context.PostAsync($"You can find the holiday/payroll calendar for 2017 on SharePoint. Click [here](https://newwavetechnologies.sharepoint.com/Lists/Announcements/DispForm.aspx?ID=4)");
                     break;
                 case "None":
                     await context.PostAsync($"None"); ;
@@ -201,31 +168,6 @@ namespace NewWave_Bot_Sample.Dialogs
             }
 
         }
-
-        /*
-        private static void ShowHeroCard(IMessageActivity replyMessage)
-        {
-            List<CardImage> cardImages = new List<CardImage>();
-            cardImages.Add(new CardImage(url: "http://lorempixel.com/200/200/food"));
-            cardImages.Add(new CardImage(url: "http://lorempixel.com/200/200/food"));
-            List<CardAction> cardButtons = new List<CardAction>();
-            CardAction plButton = new CardAction()
-            {
-                Value = "https://en.wikipedia.org/wiki/Pig_Latin",
-                Type = "openUrl",
-                Title = "Wikipedia Page"
-            };
-            cardButtons.Add(plButton);
-            HeroCard plCard = new HeroCard()
-            {
-                Title = "I'm a hero card",
-                Subtitle = "Wikipedia Page",
-                Images = cardImages,
-                Buttons = cardButtons
-            };
-            Attachment plAttachment = plCard.ToAttachment();
-            replyMessage.Attachments.Add(plAttachment);
-        }*/
 
         public async Task MessageReceivedFBid(IDialogContext context, IAwaitable<IMessageActivity> argument)
         {
@@ -249,7 +191,7 @@ namespace NewWave_Bot_Sample.Dialogs
             LuisJSON Data = new LuisJSON();
             using (HttpClient client = new HttpClient())
             {
-                string RequestURI = "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/e6407f0e-5e84-4a27-9d75-09abff0b9b26?subscription-key=470c099f975a40c9b661a4c7e5c78b09&timezoneOffset=-300&verbose=true&spellCheck=true&q=" + Query;
+                string RequestURI = "https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/e6407f0e-5e84-4a27-9d75-09abff0b9b26?subscription-key=3e4ea53de18c494d9918b867888011c6&verbose=true&timezoneOffset=0&spellCheck=true&q=" + Query;
                 HttpResponseMessage msg = await client.GetAsync(RequestURI);
 
                 if (msg.IsSuccessStatusCode)

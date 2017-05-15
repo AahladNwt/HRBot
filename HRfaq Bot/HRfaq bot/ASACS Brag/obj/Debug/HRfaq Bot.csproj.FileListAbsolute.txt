@@ -124,6 +124,7 @@ C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\HRfaq Bot\HRfaq b
 C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\HRfaq Bot\HRfaq bot\ASACS Brag\obj\Debug\HRfaq Bot.csprojResolveAssemblyReference.cache
 C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\HRfaq Bot\HRfaq bot\ASACS Brag\obj\Debug\Bot Application.dll
 C:\Users\aahlad.karumuru\Documents\Visual Studio 2017\Projects\HRfaq Bot\HRfaq bot\ASACS Brag\obj\Debug\Bot Application.pdb
+<<<<<<< HEAD
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Bot Application.dll.config
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Bot Application.dll
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Bot Application.pdb
@@ -265,3 +266,5 @@ C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\b
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.Bing.Speech.xml
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.VisualStudio.Threading.xml
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.VisualStudio.Validation.xml
+=======
+>>>>>>> parent of 950e03c... Updated, Deployed to Azure on Skype and MS Teams
