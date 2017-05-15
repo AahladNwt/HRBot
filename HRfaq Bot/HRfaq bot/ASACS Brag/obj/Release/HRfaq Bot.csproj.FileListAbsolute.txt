@@ -98,14 +98,12 @@ C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\b
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.Extensions.PlatformAbstractions.xml
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.Extensions.Primitives.xml
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.Extensions.WebEncoders.xml
-C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.Net.Http.Headers.xml
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.WindowsAzure.Configuration.xml
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\MySql.Data.xml
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Newtonsoft.Json.xml
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\System.Diagnostics.DiagnosticSource.xml
-C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\System.IdentityModel.Tokens.Jwt.pdb
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\System.IdentityModel.Tokens.Jwt.xml
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\System.Net.Http.Formatting.xml
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\System.Text.Encodings.Web.xml
@@ -124,3 +122,20 @@ C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\b
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\obj\Release\HRfaq Bot.csprojResolveAssemblyReference.cache
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\obj\Release\Bot Application.dll
 C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\obj\Release\Bot Application.pdb
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.Bot.Builder.Calling.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.Bot.Builder.Calling.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Bond.Attributes.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Bond.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Bond.IO.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Bond.JSON.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.Bing.Messaging.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.Bing.Speech.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.VisualStudio.Threading.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.VisualStudio.Validation.dll
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Bond.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Bond.Attributes.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Bond.IO.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Bond.JSON.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.Bing.Speech.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.VisualStudio.Threading.xml
+C:\Users\aahlad.karumuru\Documents\GitHub\HRBot\HRfaq Bot\HRfaq bot\ASACS Brag\bin\Microsoft.VisualStudio.Validation.xml
